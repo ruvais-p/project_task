@@ -1,6 +1,6 @@
 # Flutter Project
 
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://github.com/ruvais-p/project_task/blob/main/Screen%20Recording%202025-01-21%20035232.mp4)
 
 This repository contains a Flutter application. Follow the steps below to clone, set up, and run the project on your local machine.
 
