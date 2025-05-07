@@ -1,5 +1,7 @@
 # Flutter Project
 
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+
 This repository contains a Flutter application. Follow the steps below to clone, set up, and run the project on your local machine.
 
 ---
